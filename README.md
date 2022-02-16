@@ -35,14 +35,19 @@ Passwords will not be able to be decrypted if the generated salt file is missing
 
 [Generate]
 * Generates random password of set length with characters: a-z A-Z 0-9 !@#$%^&*
+
 [Copy Login/Password]
 * Copies current login or password to the clipboard
+
 [Clear]
 * Clears name, login, and password fields
+
 [Save]
 * Encrypts and saves current login/password with name as the filename
+
 [Delete]
 * Deletes currently selected entry (and associated file)
+
 [Import/Export]
 * Imports/Exports a CSV file formatted as "Name,Login,Password"
 
